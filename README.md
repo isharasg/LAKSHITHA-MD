@@ -9,7 +9,6 @@ MY FIRST OWN BOT
 
 <h5>🍁 First tap to Fork button and create new fork</h5>
 
-
 <hr>
 	
 <h3>🍁 Get Your SESSION ID 👇</h3> 
