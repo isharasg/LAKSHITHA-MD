@@ -2,7 +2,7 @@
 MY FIRST OWN BOT
 <div align="center">
 	<h3>🍁LAKSHITHA-MD🍁</h3>
-<img src="https://ibb.co/QfT4qmQ">
+<img src="https://i.ibb.co/G08q1Pp/kakashi-cyberpunk-ninja-hd-wallpaper-uhdpaper-com-319-2-b.jpg">
 </div>
 
 <h3>🍁 How To Deploy </h3>
