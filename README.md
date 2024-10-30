@@ -1,4 +1,4 @@
-# LAKSHITHA-MD
+# 🍁LAKSHITHA-MD V1.0.0🌴
 MY FIRST OWN BOT
 <div align="center">
 	<h3>🍁LAKSHITHA-MD🍁</h3>
