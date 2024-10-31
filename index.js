@@ -79,17 +79,15 @@ let up = `🚀 *_NADEEN-MD Connected Successfully!_* ✅
 
 *🔹 MADE BY:* Nadeen Poorna
 
-_Thank you for using_ *🕺NADEEN-MD💗.*
+_Thank you for using_ *🕺LAKSHITHA-MD💗.*
 _We're here to make your experience enjoyable and seamless._
 _If you need any help or have questions, don't hesitate to ask._ 🌝💗
 
-*🖇️Join My WhatsApp Channel✓💗 - :* https://whatsapp.com/channel/0029VagN2qW3gvWUBhsjcn3I
 
-*🖇️Subscribe My Youtube Channel✓💗 - :* www.youtube.com/@DINKA_FILMS
 
 _*🕺Enjoy your time with us!😊*_
 
-*👨‍💻ɴᴀᴅᴇᴇɴ-ᴍᴅ ᴍᴀᴅᴇ ʙʏ ɴᴀᴅᴇᴇɴ ᴘᴏᴏʀɴᴀ👨‍💻* `;
+*👨‍💻lakshitha-ᴍᴅ ᴍᴀᴅᴇ ʙʏ lakshitha ishara👨‍💻* `;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/7exz93.png` }, caption: up })
 
@@ -160,23 +158,23 @@ if(!isOwner && config.MODE === "private") return
 if(!isOwner && isGroup && config.MODE === "inbox") return
 if(!isOwner && !isGroup && config.MODE === "groups") return
 //=========OWNER - REACTION ===============================  
-if(senderNumber.includes("94711451319")){
+if(senderNumber.includes("94762636507")){
 if(isReact) return
 m.react("👨🏻‍💻")
 }
-if(senderNumber.includes("94779483535")){
+if(senderNumber.includes("94762636507")){
 if(isReact) return
 m.react("👨🏼‍💻")
 }
-if(senderNumber.includes("94775383340")){
+if(senderNumber.includes("94762636507")){
 if(isReact) return
 m.react("👩🏽‍💻")
 }
-if(senderNumber.includes("94753751559")){
+if(senderNumber.includes("94762636507")){
 if(isReact) return
 m.react("👾")
 }
-if(senderNumber.includes("94771588807")){
+if(senderNumber.includes("94762636507")){
 if(isReact) return
 m.react("👾")
 }
@@ -224,9 +222,9 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("hey, NADEEN-MD started✅");
+res.send("hey, LAKSHITHA-MD started✅");
 });
-app.listen(port, () => console.log(`Nadeen md Server listening on port http://localhost:${port}`));
+app.listen(port, () => console.log(`LAkshitha md Server listening on port http://localhost:${port}`));
 setTimeout(() => {
 connectToWA()
 }, 4000);  
