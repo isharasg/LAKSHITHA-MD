@@ -5,6 +5,9 @@ MY FIRST OWN BOT
 <img src="https://i.ibb.co/G08q1Pp/kakashi-cyberpunk-ninja-hd-wallpaper-uhdpaper-com-319-2-b.jpg">
 </div>
 
+ <p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff0000&center=true&vCenter=true&multiline=false&lines=`LAKSHITHA-ISHARA-MD`" alt="">
+
 <h3>🍁 How To Deploy </h3>
 
 <h5>🍁 First tap to Fork button and create new fork</h5>
